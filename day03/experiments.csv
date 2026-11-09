@@ -1,0 +1,9 @@
+name,power_mW,diameter_um,duration_s
+ChR2 motor cortex stimulation,5,200,10
+ChR2 hippocampal slice,2,200,5
+ArchT inhibition,10,200,15
+ChR2 striatal stimulation,8,400,10
+ReaChR red-light stimulation,12,400,5
+ChR2 brief pulse train,3,200,2
+ArchT sustained inhibition,15,400,20
+Control low-power exposure,1,200,10
